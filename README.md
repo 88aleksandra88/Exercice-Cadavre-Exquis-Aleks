@@ -13,7 +13,7 @@ Les monstres avaient ajoutés un **bug** dans le réseau électrique !
 Heureusement, le pouvoir du `code` était avec les __apprenants__, ce qui leur permis de corriger le **bug** et faire face à un nouveau monstre: _**GIT**_ !
 
 A force de travail et de partage, les monstres :smiling_imp: furent repoussés un par un et depuis ce jour aucuns d'entre eux n'oserait revenir :fire:, sous peine de subir la vengeance des **gardiens du code** 
-=======
+
 **Le prèmier jour tant attendu est arrivé.**
 Les futurs apprenants attendent de rentrer dans les locaux de *Becode.*
 L'avanteure commence!
